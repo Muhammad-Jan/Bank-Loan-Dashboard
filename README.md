@@ -8,9 +8,9 @@ This project involved several stages, including **data preprocessing**, **data c
 
 ## Dataset & Files  
 
-- **Dataset:** [Bank Loan Dataset.csv](https://github.com/Muhammad-Jan/Bank-Loan-Analytics-Project/blob/main/Bank%20Loan%20Dataset.csv)  
-- **Excel Dashboard:** [Bank Loan Project.xlsx](https://github.com/Muhammad-Jan/Bank-Loan-Analytics-Project/blob/main/Bank%20Loan%20Project.xlsx)  
-- **Project Requirements (KPIs):** [Bank Loan KPIs Requirements.pptx](https://github.com/Muhammad-Jan/Bank-Loan-Analytics-Project/blob/main/Bank%20Loan%20KPIs%20Requirements.pptx)  
+- **Dataset:** [Bank Loan Dataset.csv](https://github.com/USERNAME/REPOSITORY/blob/main/Bank%20Loan%20Dataset.csv)  
+- **Excel Dashboard:** [Bank Loan Project.xlsx](https://github.com/USERNAME/REPOSITORY/blob/main/Bank%20Loan%20Project.xlsx)  
+- **Project Requirements (KPIs):** [Bank Loan KPIs Requirements.pptx](https://github.com/USERNAME/REPOSITORY/blob/main/Bank%20Loan%20KPIs%20Requirements.pptx)  
 
 ---
 
